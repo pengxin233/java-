@@ -1,0 +1,24 @@
+
+/* 字体大小 */
+.m-text-thin {
+    font-weight: 300 !important;
+}
+
+/* 字间距 */
+.m-text-spaced{
+    letter-spacing: 1px !important;
+}
+
+/* 行间距 */
+.m-text-lined {
+    line-height: 1.0 !important;
+}
+
+/* 透明度 */
+.m-opacity-mini {
+    opacity: 0.8 !important;
+}
+
+.m-opacity-tiny {
+    opacity: 0.6 !important;
+}
